@@ -17,5 +17,5 @@
 * Gavin Gough. [The Photographer’s Workflow](http://www.gavingough.com/photo-workflow/)
 Если мой подход показался вам слишком простым, то эта книга может вам понравится. Гэвин — профессиональный фотограф, снимающий гораздо больше и серьёзнее меня. И рабочий процесс в свой книге он описывает соответствующий.
 
-* Piet Van den Eynde. [Lighroom 5 Up to Speed](http://craftandvision.com/products/lightroom-5-up-to-speed)
+* Piet Van den Eynde. [Lightroom 5 Up to Speed](http://craftandvision.com/products/lightroom-5-up-to-speed)
 Если вы всё ещё почему-то не перешли на пятый Лайтрум, то это книга расскажет вам обо всех его новых функциях.
